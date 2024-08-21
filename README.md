@@ -1,4 +1,4 @@
-![Alt text](https://i.ibb.co/M843137/e-com-apu-vercel-app-1.png)
+![Alt text](https://i.ibb.co/ZLW9K5M/e-com-apu-vercel-app-1-1.png)
 
 - **[LIVE LINK](https://e-com-apu.vercel.app)**
 
